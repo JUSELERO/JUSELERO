@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JUSELERO
 - 👀 I’m interested in  manage
-- 🌱 I’m currently learning C# dart
+- 🌱 I’m currently learning C# Typescript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me . juansebastianleon5@gmail.com
 
